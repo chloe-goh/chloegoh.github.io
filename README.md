@@ -1,2 +1,4 @@
 # chloegoh.github.io
-Chloe's portfolio website
+This is an overview of my portfolio website. 
+
+Template credit: https://github.com/CommunityPro/portfolio-html
